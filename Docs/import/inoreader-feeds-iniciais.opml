@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds iniciais - uso melhor da internet</title>
+  </head>
+  <body>
+    <outline text="Games" title="Games">
+      <outline text="Gloomwood" title="Gloomwood" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/1150760/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/1150760/Gloomwood/" />
+      <outline text="Jump Space" title="Jump Space" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/1757300/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/1757300/Jump_Space/" />
+      <outline text="Codename: CURE II" title="Codename: CURE II" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/2810210/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/2810210/Codename_CURE_II/" />
+      <outline text="Beautiful Light" title="Beautiful Light" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/1313230/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/1313230/Beautiful_Light/" />
+      <outline text="Exoborne" title="Exoborne" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/2705130/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/2705130/Exoborne/" />
+      <outline text="Pathologic 3: Quarentena" title="Pathologic 3: Quarentena" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/3389330/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/3389330/Pathologic_3_Quarentena/" />
+      <outline text="The Hidden Ones" title="The Hidden Ones" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/3345210/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/3345210/The_Hidden_Ones/" />
+      <outline text="Operation: Fallen Eagle" title="Operation: Fallen Eagle" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/3090490/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/3090490/Operation_Fallen_Eagle/" />
+      <outline text="KARLSON" title="KARLSON" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/1228610/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/1228610/KARLSON/" />
+      <outline text="The Bornless" title="The Bornless" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/2411280/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/2411280/The_Bornless/" />
+      <outline text="Active Matter" title="Active Matter" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/2887580/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/2887580/Active_Matter/" />
+      <outline text="ExpressLane: Not a Battle Royale" title="ExpressLane: Not a Battle Royale" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/2071630/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/2071630/ExpressLane_Not_a_Battle_Royale/" />
+      <outline text="Den of Wolves" title="Den of Wolves" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/1818140/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/1818140/Den_of_Wolves/" />
+      <outline text="beta decay" title="beta decay" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/1416070/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/1416070/beta_decay/" />
+      <outline text="OpenFront" title="OpenFront" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/3560670/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/3560670/OpenFront/" />
+      <outline text="Deep Dish Dungeon" title="Deep Dish Dungeon" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/2871520/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/2871520/Deep_Dish_Dungeon/" />
+      <outline text="DEFECT" title="DEFECT" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/2470010/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/2470010/DEFECT/" />
+      <outline text="Astromine" title="Astromine" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/1833210/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/1833210/Astromine/" />
+      <outline text="Burglin' Gnomes" title="Burglin' Gnomes" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/3844970/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/3844970/Burglin_Gnomes/" />
+      <outline text="WARDOGS" title="WARDOGS" type="rss" xmlUrl="https://store.steampowered.com/feeds/news/app/1867240/?cc=BR&amp;l=portuguese" htmlUrl="https://store.steampowered.com/app/1867240/WARDOGS/" />
+    </outline>
+    <outline text="Engenharia" title="Engenharia">
+      <outline text="Martin Fowler" title="Martin Fowler" type="rss" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl="https://martinfowler.com/" />
+      <outline text="The Pragmatic Engineer" title="The Pragmatic Engineer" type="rss" xmlUrl="https://newsletter.pragmaticengineer.com/feed" htmlUrl="https://newsletter.pragmaticengineer.com/" />
+      <outline text="GitHub Blog" title="GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/" />
+      <outline text="Stack Overflow Blog" title="Stack Overflow Blog" type="rss" xmlUrl="https://stackoverflow.blog/feed/" htmlUrl="https://stackoverflow.blog/" />
+      <outline text="InfoQ" title="InfoQ" type="rss" xmlUrl="https://feed.infoq.com/" htmlUrl="https://www.infoq.com/" />
+      <outline text="Netflix Tech Blog" title="Netflix Tech Blog" type="rss" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com/" />
+      <outline text="Cloudflare Blog" title="Cloudflare Blog" type="rss" xmlUrl="https://blog.cloudflare.com/rss/" htmlUrl="https://blog.cloudflare.com/" />
+      <outline text="AWS Architecture Blog" title="AWS Architecture Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/architecture/feed/" htmlUrl="https://aws.amazon.com/blogs/architecture/" />
+    </outline>
+    <outline text="AI-Tech" title="AI-Tech">
+      <outline text="OpenAI Blog" title="OpenAI Blog" type="rss" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news/" />
+      <outline text="Anthropic News" title="Anthropic News" type="rss" xmlUrl="https://www.anthropic.com/news/rss.xml" htmlUrl="https://www.anthropic.com/news" />
+      <outline text="Google DeepMind Blog" title="Google DeepMind Blog" type="rss" xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/blog/" />
+      <outline text="Latent Space" title="Latent Space" type="rss" xmlUrl="https://www.latent.space/feed" htmlUrl="https://www.latent.space/" />
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,4 @@
+.env
+discord_token.txt
+data/
+node_modules/

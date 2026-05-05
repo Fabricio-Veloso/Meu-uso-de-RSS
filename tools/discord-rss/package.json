@@ -1,0 +1,23 @@
+{
+  "name": "discord-rss-poc",
+  "version": "0.1.0",
+  "private": true,
+  "description": "POC local para transformar mensagens espelhadas do Discord em RSS para FreshRSS.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "seed": "node src/seed.js",
+    "demo": "node src/demo.js",
+    "check": "node --check src/server.js && node --check src/seed.js && node --check src/demo.js && node --test test/*.test.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "rss": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
